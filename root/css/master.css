@@ -1,13 +1,7 @@
-h1 {
-    color: blue;
+p {
+    color: green;
   }
   
-  span {
-    font-weight: bold;
-    font-size: 1.2rem;
-    color: tomato;
-  }
-  
-  div {
-    color: tomato;
+  #first {
+    color: red;
   }
